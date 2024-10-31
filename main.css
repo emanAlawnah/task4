@@ -1,0 +1,25 @@
+i{
+    color: white;
+    background-color: yellow;
+   
+}
+.header{
+    text-align: center;
+}
+
+
+.srevise{
+width: 33%;
+float: left;
+text-align: center;
+}
+.servises{
+   width: 60%;
+   margin: auto;
+  
+
+  
+}
+.clear{
+    clear: both;
+}
